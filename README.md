@@ -49,9 +49,9 @@ Hackintosh OpenCore configuration for Intel i7 10700 &amp; Z490 Vision G
 - OS type : other
 
 ## Benchmarks
-![](Images/Geekbench 5 Core Score.png)
-![](Images/Geekbench 5 Metal Score.png)
-![](Images/Geekbench 5 OpenCL Score.png)
+![](Images/Geekbench5_CoreScore.png)
+![](Images/Geekbench5_MetalScore.png)
+![](Images/Geekbench5_OpenCLScore.png)
 
 ## Credits
 https://dortania.github.io/OpenCore-Desktop-Guide
