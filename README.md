@@ -1,7 +1,7 @@
 # Hackintosh-i7-10700-Gigabyte-z490-Vision-G
 Hackintosh OpenCore configuration for Intel i7 10700 &amp; Z490 Vision G
 
-**macOS**: 10.15.6 **OpenCore**: 0.6.1 **SMBIOS**: iMac20,1
+**macOS**: 10.15.7 **OpenCore**: 0.6.1 **SMBIOS**: iMac20,1
 
 ## Hardware
 | HARDWARE | DESCRIPTION |
