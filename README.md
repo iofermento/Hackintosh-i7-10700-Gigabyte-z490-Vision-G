@@ -24,16 +24,13 @@ Hackintosh OpenCore configuration for Intel i7 10700 &amp; Z490 Vision G
 - [x] **Shutdown**
 - [x] **Restart**
 - [x] **DRM**
+- [x] **MacOS update**
 
 ![](Images/VideoProc.png)
-
-## Not working
-- [ ] **Display wake up after lock screen / sleep**
 
 ## Not tested
 - [ ] **Ethernet**
 - [ ] **iGPU UHD630 DP Output** 
-- [ ] **MacOS update**
 - [ ] **USB speed**
 
 ## BIOS
@@ -52,6 +49,7 @@ Hackintosh OpenCore configuration for Intel i7 10700 &amp; Z490 Vision G
 ![](Images/Geekbench5_CoreScore.png)
 ![](Images/Geekbench5_MetalScore.png)
 ![](Images/Geekbench5_OpenCLScore.png)
+![](Images/CinebenchRelease20.png)
 
 ## Credits
 https://dortania.github.io/OpenCore-Desktop-Guide
@@ -64,4 +62,4 @@ https://github.com/georgetree/hackintosh-10700k-Gigabyte-Z490-Vision-g
 
 https://github.com/rursache/Hackintosh-i9-10900k-Z490-Vision-G
 
-https://dortania.github.io/OpenCore-Desktop-Guide
+https://github.com/JeremySavonet/Hackintosh-i7-10700k-Z490-Vision-G
